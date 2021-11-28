@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assigment3WebApiDatabase", "Assigment3WebApiDatabase\Assigment3WebApiDatabase.csproj", "{589F7E05-B560-462E-A7A8-1044C5E8A85B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assigment3Client", "Assigment3Client\Assigment3Client.csproj", "{5A1EA157-9417-43F2-BEFD-E8549BCC7EA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{589F7E05-B560-462E-A7A8-1044C5E8A85B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{589F7E05-B560-462E-A7A8-1044C5E8A85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{589F7E05-B560-462E-A7A8-1044C5E8A85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{589F7E05-B560-462E-A7A8-1044C5E8A85B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A1EA157-9417-43F2-BEFD-E8549BCC7EA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A1EA157-9417-43F2-BEFD-E8549BCC7EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A1EA157-9417-43F2-BEFD-E8549BCC7EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A1EA157-9417-43F2-BEFD-E8549BCC7EA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
